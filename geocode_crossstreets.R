@@ -55,7 +55,7 @@ geocode <- function(address,verbose=FALSE) {
 }
 
 #e.g.
-geoCode("Poplar and 26th, Philadelphia, PA")
+geocode("Poplar and 26th, Philadelphia, PA")
 
 
 #### B. Structure data for geocoding ------------------------------------------
